@@ -1,0 +1,2 @@
+#!/bin/bash
+st-flash --reset --format ihex write build/zx_usb_keyboard.hex
